@@ -281,7 +281,7 @@ font-size:1.05rem !important;
 /* Intro content */
 .intro__content {
 	position: absolute;
-	bottom: 0;
+	bottom: 1.8rem;
 	padding: 1.8em;
 	width: 100%;
 	font-size: 1.15em;
@@ -499,13 +499,13 @@ pointer-events: none;
 @media screen and (max-width:800px) {
 
 .thumb-nav__item img {
-width: 50px;
-height: 50px;
+width: 27px;
+height: 27px;
 }
 
 .thumb-nav__item span {
-font-size: 1.35em;
-line-height: 55px;
+font-size: 1em;
+line-height: 32px;
 }
 
 }
