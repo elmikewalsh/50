@@ -282,7 +282,7 @@ font-size:1.05rem !important;
 .intro__content {
 	position: absolute;
 	bottom: 1.8rem;
-	padding: 1.8em;
+	padding: 2.5em;
 	width: 100%;
 	font-size: 1.15em;
 }
@@ -505,7 +505,7 @@ height: 27px;
 
 .thumb-nav__item span {
 font-size: 1em;
-line-height: 32px;
+line-height: 30px;
 }
 
 }
